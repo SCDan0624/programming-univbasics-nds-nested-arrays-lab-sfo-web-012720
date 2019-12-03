@@ -19,7 +19,7 @@ def assembled_matrix
   # and the Enfield Tennis Academy as provided by the constants
   new_array = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
   
-  return new_array
+  new_array
   
   
 end
